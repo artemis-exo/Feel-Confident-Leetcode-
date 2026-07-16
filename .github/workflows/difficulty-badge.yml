@@ -1,0 +1,42 @@
+name: Add Difficulty Badges
+
+# Runs every time LeetHub (or you) pushes to main
+on:
+  push:
+    branches: [ main ]
+
+# Let the action commit back to the repo
+permissions:
+  contents: write
+
+jobs:
+  badge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Replace difficulty text with colored badges
+        run: |
+          # Loop over every README.md in the repo (skip the root index if you want — see note below)
+          find . -name "README.md" -not -path "./README.md" | while read -r file; do
+
+            # Easy -> green badge
+            sed -i -E 's/^(\*\*)?Easy(\*\*)?$/![Easy](https:\/\/img.shields.io\/badge\/Difficulty-Easy-brightgreen)/' "$file"
+
+            # Medium -> yellow badge
+            sed -i -E 's/^(\*\*)?Medium(\*\*)?$/![Medium](https:\/\/img.shields.io\/badge\/Difficulty-Medium-yellow)/' "$file"
+
+            # Hard -> red badge
+            sed -i -E 's/^(\*\*)?Hard(\*\*)?$/![Hard](https:\/\/img.shields.io\/badge\/Difficulty-Hard-red)/' "$file"
+
+          done
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --staged --quiet || git commit -m "Add difficulty badges to README files"
+          git push
