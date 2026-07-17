@@ -1,7 +1,7 @@
 class Solution {
     public int cherryPickup(int[][] grid) {
         int n=grid.length;
-        int [][][] dp=new int[n][n][n];
+        int [][][] dp=new int[n][n][n];  // 4D dp TLE deri hai 
         for(int i[][]:dp){
             for(int r[]:i){
                 Arrays.fill(r,-1);
@@ -16,17 +16,17 @@ class Solution {
             return (int)-1e8;
         }
         if(r1==n-1 && c1==n-1)
-        return grid[r1][c1];
+        return grid[r1][c1]; // end point pe agye 
 
         if(dp[r1][c1][r2]!=-1){
             return dp[r1][c1][r2];
         }
         int cherry=0;
         if(r1==r2 && c1==c2){
-            cherry=grid[r2][c2];
+            cherry=grid[r2][c2];  // dono same cell mey hain
         }
         else{
-            cherry=grid[r2][c2]+grid[r1][c1];
+            cherry=grid[r2][c2]+grid[r1][c1]; // both in diff cell
         }
         int max=Math.max(
             (Math.max(Cherry(r1+1,c1,r2+1,grid,dp,n),Cherry(r1+1,c1,r2,grid,dp,n))),
