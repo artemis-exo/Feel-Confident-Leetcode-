@@ -38,5 +38,12 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --staged --quiet || git commit -m "Add difficulty badges to README files"
-          git push
+          git diff --staged --quiet && exit 0
+          git commit -m "Add difficulty badges to README files"
+
+          # LeetHub may push again while this job runs, so retry with rebase
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && break
+            echo "Push failed, retrying ($i)..."
+            sleep 5
+          done
