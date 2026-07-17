@@ -49,9 +49,26 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0322-coin-change/) | Medium |
+| [0743-network-delay-time](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0743-network-delay-time/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0743-network-delay-time/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0743-network-delay-time/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0743-network-delay-time/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
