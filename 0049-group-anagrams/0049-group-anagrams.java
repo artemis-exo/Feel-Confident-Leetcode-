@@ -9,7 +9,7 @@ class Solution {
         String key=Arrays.toString(arr);
         map.putIfAbsent(key,new ArrayList<>());
         map.get(key).add(strs[i]);
-            //System.out.println(Arrays.toString(arr));
+            //System.out.println(Arrays.toString(arr));;
         }
            
         return new ArrayList<>(map.values());
