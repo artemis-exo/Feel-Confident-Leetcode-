@@ -11,6 +11,7 @@
 | [0778-swim-in-rising-water](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -62,6 +63,7 @@
 | [0778-swim-in-rising-water](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,12 +71,14 @@
 | [0778-swim-in-rising-water](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +89,7 @@
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +99,7 @@
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,4 +108,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0778-swim-in-rising-water](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 <!---LeetCode Topics End-->
