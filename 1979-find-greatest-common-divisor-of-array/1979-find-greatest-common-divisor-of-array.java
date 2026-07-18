@@ -8,8 +8,8 @@ class Solution {
             if(i<min)
             min=i;
         }
-        IO.println(min);
-        IO.println(max);
+        // IO.println(min);
+        // IO.println(max);
         return gcd(max,min);
     }
     public int gcd(int a, int b){
