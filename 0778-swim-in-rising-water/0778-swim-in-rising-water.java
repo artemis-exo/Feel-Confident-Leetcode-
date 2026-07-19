@@ -30,7 +30,7 @@ class Solution {
         return false;
     }
 }
-
+// Using Dijstra 
 class Solution {
     int [][]  dirs={{1,0},{0,1},{-1,0},{0,-1}};
     public int swimInWater(int[][] grid) {
