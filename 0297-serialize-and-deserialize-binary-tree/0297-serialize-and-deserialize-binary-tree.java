@@ -10,6 +10,7 @@
 public class Codec {
   public final String spliter=",";
   public final String NN="X";
+  int idx=0;
     // Encodes a tree to a single string.
     public String serialize(TreeNode root) {
         StringBuilder sb=new StringBuilder();
@@ -30,17 +31,18 @@ public class Codec {
 
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
-       Deque<String> d=new LinkedList<>();
-       d.addAll(Arrays.asList(data.split(spliter)));
-       return Tree(d); 
+      String [] arr=data.split(spliter);
+       return Tree(arr); 
     }
-    public TreeNode Tree(Deque<String>d){
-        String val=d.remove();
-        if(val.equals(NN))return null;
+    public TreeNode Tree(String [] arr){
+        if (arr[idx].equals(NN)) {
+            idx++;
+            return null;
+        }
         else{
-            TreeNode root=new TreeNode(Integer.parseInt(val));
-           root.left= Tree(d);
-           root.right= Tree(d);
+            TreeNode root=new TreeNode(Integer.parseInt(arr[idx++]));
+           root.left= Tree(arr);
+           root.right= Tree(arr);
            return root;
         }
     }
