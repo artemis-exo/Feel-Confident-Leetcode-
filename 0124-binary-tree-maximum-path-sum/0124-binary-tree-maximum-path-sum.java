@@ -13,6 +13,13 @@
  *     }
  * }
  */
+
+//So the rule is:
+//  -> Upward contribution: negatives are ignored (treated as 0).
+
+// -> Global max: negatives are still considered, because the path may consist of just that node.
+
+//  * That’s why you can still get a negative answer if all values are negative — and that’s actually correct.
 class Solution {
     int res=Integer.MIN_VALUE;
     public int maxPathSum(TreeNode root) {
