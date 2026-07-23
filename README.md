@@ -23,6 +23,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2932-maximum-strong-pair-xor-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -36,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0049-group-anagrams/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -75,6 +77,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0743-network-delay-time](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -96,6 +99,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0743-network-delay-time](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0778-swim-in-rising-water/) | Hard |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Graph Theory
@@ -152,6 +156,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +164,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
