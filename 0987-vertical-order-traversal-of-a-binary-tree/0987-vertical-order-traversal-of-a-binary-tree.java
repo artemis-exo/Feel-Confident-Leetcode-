@@ -26,7 +26,7 @@ class Solution {
         int prevHold=Integer.MIN_VALUE;
         for(int i[]:li){
             int col=i[0] , row=i[1], val=i[2];
-            if(col!=prevHold){
+            if(col!=prevHold){   // col same hai toh new ArrayList bnao aur prevHold val mey reference daldo
                 res.add(new ArrayList<>());
                 prevHold=col;
             }
