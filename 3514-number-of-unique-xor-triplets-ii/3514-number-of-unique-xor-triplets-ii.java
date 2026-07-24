@@ -4,10 +4,10 @@ class Solution {
         Set<Integer> s=new HashSet<>();
         for(int i=0; i<nums.length;i++){
             for(int j=i;j<nums.length; j++){
-                st.add(nums[i]^nums[j]);
+                st.add(nums[i]^nums[j]);  // // Sub arrays type xor compute krliya beacuse common 
             }
         }
-        for(int i:st){
+        for(int i:st){  // then with k
             for(int j:nums){
                 s.add(i^j);
             }
