@@ -75,6 +75,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0322-coin-change/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
@@ -98,6 +99,7 @@
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
@@ -154,11 +156,13 @@
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
@@ -168,6 +172,7 @@
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
