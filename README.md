@@ -13,6 +13,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1260-shift-2d-grid](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -42,6 +43,7 @@
 | [0049-group-anagrams](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Math
@@ -127,6 +129,7 @@
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0778-swim-in-rising-water/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
