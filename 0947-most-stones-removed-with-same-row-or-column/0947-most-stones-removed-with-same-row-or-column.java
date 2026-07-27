@@ -14,12 +14,13 @@ class Solution {
         }
         return n-cnt;
     }
-    public void dfs(int i, boolean[] visit,int [][] stones){
+    public void dfs(int i, boolean[] visit,int [][] stones){    
         visit[i]=true;
-        for(int k=0; k<stones.length; k++){
+        for(int k=0; k<stones.length; k++){    
             int row=stones[k][0];
             int col=stones[k][1];
-            if(!(visit[k]) && (stones[i][0]==row || stones[i][1]==col)){
+            // Ist iteration wala (0,0) ka khud check(0,0) nhi hoga kyuki humne visit krdiya hai toh 0,0 ka next 0,1 se hoga
+            if(!(visit[k]) && (stones[i][0]==row || stones[i][1]==col)){  
                 dfs(k,visit,stones);
             }
         }
