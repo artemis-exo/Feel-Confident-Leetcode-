@@ -10,7 +10,7 @@ class Solution {
         return build(str1,str2,dp);
     }
     public int LCS(int i, int j, String s1, String s2, int dp[][]){
-        if(i==s1.length() || j==s2.length())return 0;
+        if(i==s1.length() || j==s2.length())return dp[i][j]=0;  //// FIX: Store 0 in the DP table so the build function can read it --->  Because the table was initialized with -1, the boundary edges remain -1.
         if(dp[i][j]!=-1)return dp[i][j];
 
         if(s1.charAt(i)==s2.charAt(j)){
@@ -27,7 +27,7 @@ class Solution {
                i++;
                j++;
             }
-                else if(dp[i+1][j]>=dp[i][j+1]){
+                else if(dp[i+1][j]>dp[i][j+1]){
                     sb.append(s.charAt(i));
                     i++;
                 }
