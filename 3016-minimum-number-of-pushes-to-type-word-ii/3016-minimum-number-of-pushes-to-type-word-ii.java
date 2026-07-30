@@ -1,8 +1,9 @@
 class Solution {
     public int minimumPushes(String word) {
         int [] count=new int[26];
-        for(char i:word.toCharArray()){
-            count[i-'a']++;
+       for(int i=0;i<word.length();i++){
+            char ch=word.charAt(i);
+            count[ch-'a']++;
         }
         int min =0;
         Arrays.sort(count);
