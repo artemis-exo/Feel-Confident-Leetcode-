@@ -61,10 +61,10 @@ class Solution {
         return max;
     }
     public int dfs(int i, int j, int [][] matrix, int [][] dp){
-        int res=1;
         if(dp[i][j]!=0){
             return dp[i][j];
         }
+        dp[i][j]=1;
         for(int it[] :dir){
             int nr=i+it[0];
             int nc=j+it[1];
@@ -72,8 +72,8 @@ class Solution {
             continue;
             if(matrix[nr][nc]<=matrix[i][j])
             continue;
-            res=Math.max(res,dfs(nr,nc,matrix,dp)+1);
+            dp[i][j]=Math.max(dp[i][j],1+dfs(nr,nc,matrix,dp));
         }
-        return dp[i][j]=res;
+        return dp[i][j];
     }
 }
