@@ -8,6 +8,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0322-coin-change](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0741-cherry-pickup](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0741-cherry-pickup/) | Hard |
@@ -82,6 +83,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0322-coin-change](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0741-cherry-pickup](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0741-cherry-pickup/) | Hard |
 | [1092-shortest-common-supersequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -109,6 +111,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0743-network-delay-time](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -121,6 +124,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0741-cherry-pickup](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0741-cherry-pickup/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -136,6 +140,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0743-network-delay-time](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -148,6 +153,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0743-network-delay-time](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0743-network-delay-time/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
@@ -265,4 +271,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 <!---LeetCode Topics End-->
