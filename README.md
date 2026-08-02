@@ -216,6 +216,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0328-odd-even-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
