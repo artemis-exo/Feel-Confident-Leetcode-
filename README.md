@@ -48,6 +48,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1092-shortest-common-supersequence/) | Hard |
+| [1143-longest-common-subsequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -94,6 +95,7 @@
 | [0741-cherry-pickup](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0741-cherry-pickup/) | Hard |
 | [0877-stone-game](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0877-stone-game/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1092-shortest-common-supersequence/) | Hard |
+| [1143-longest-common-subsequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
