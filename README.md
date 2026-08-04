@@ -113,6 +113,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0061-rotate-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0061-rotate-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
@@ -225,6 +226,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0061-rotate-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
