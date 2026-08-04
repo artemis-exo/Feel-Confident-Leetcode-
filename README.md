@@ -33,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0049-group-anagrams/) | Medium |
+| [0141-linked-list-cycle](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -114,6 +115,7 @@
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0061-rotate-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
@@ -231,6 +233,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0141-linked-list-cycle](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -332,4 +335,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1092-shortest-common-supersequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1092-shortest-common-supersequence/) | Hard |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
