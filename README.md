@@ -35,6 +35,7 @@
 | [0049-group-anagrams](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0205-isomorphic-strings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0205-isomorphic-strings/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -47,6 +48,7 @@
 | [0044-wildcard-matching](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0072-edit-distance/) | Medium |
+| [0205-isomorphic-strings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0205-isomorphic-strings/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
