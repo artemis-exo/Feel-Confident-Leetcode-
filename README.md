@@ -118,6 +118,7 @@
 | [0061-rotate-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Simulation
@@ -212,6 +213,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0143-reorder-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Greedy
@@ -237,6 +239,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0143-reorder-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -305,6 +308,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0044-wildcard-matching](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0044-wildcard-matching/) | Hard |
+| [0143-reorder-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0486-predict-the-winner](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
