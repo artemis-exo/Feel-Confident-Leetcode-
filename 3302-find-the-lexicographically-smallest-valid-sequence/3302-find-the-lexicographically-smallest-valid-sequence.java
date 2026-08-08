@@ -22,7 +22,13 @@ class Solution {
             li.add(i);
             j++;
           }
-          else if(power &&  suffix[i+1]>=m-j-1){
+          else if(power &&  suffix[i+1]>=m-j-1){  
+              // Yeh -1 ka main reason string ki 0-based indexing aur current character jisko hum power se match kar rahe hain, usko hatana hai.
+              // ex -- Yahan m = 5
+              // Indexes hain: 0(a), 1(p), 2(p), 3(l), 4(e)
+              // Ab sochiye aap loop mein chal rahe hain aur aap index j = 1 (yani pehle wale 'p') par power use kar lete hain.
+              // Toh ab aage match karne ke liye kitne characters bache?Sirf 3 characters: 2(p), 3(l), 4(e).
+              // Ab formula lagaiye:Remaining characters = m - j - 1= 5 - 1 - 1= 3
             li.add(i);
             j++;
             power=false;
