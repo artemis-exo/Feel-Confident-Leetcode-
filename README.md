@@ -145,6 +145,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1260-shift-2d-grid/) | Easy |
+| [2181-merge-nodes-in-between-zeros](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -274,6 +275,7 @@
 | [0234-palindrome-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0328-odd-even-linked-list/) | Medium |
+| [2181-merge-nodes-in-between-zeros](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
