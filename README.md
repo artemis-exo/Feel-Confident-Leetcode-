@@ -87,6 +87,7 @@
 | [0877-stone-game](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1510-stone-game-iv/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -118,6 +119,7 @@
 | [1143-longest-common-subsequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1406-stone-game-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1510-stone-game-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1510-stone-game-iv/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -367,16 +369,19 @@
 | [0877-stone-game](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1510-stone-game-iv/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1510-stone-game-iv/) | Hard |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,4 +395,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
