@@ -28,6 +28,7 @@
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2932-maximum-strong-pair-xor-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -64,6 +65,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -409,4 +411,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1510-stone-game-iv/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->
