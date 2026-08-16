@@ -95,6 +95,7 @@
 | [0486-predict-the-winner](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0877-stone-game/) | Medium |
+| [0991-broken-calculator](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0991-broken-calculator/) | Medium |
 | [1140-stone-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1510-stone-game-iv/) | Hard |
@@ -260,6 +261,7 @@
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0044-wildcard-matching/) | Hard |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0991-broken-calculator](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0991-broken-calculator/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
