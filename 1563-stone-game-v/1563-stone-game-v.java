@@ -15,12 +15,12 @@ class Solution {
             return dp[i][j];
         }
         int total=0;
-        for(int h=i; h<=j;h++){
+        for(int h=i; h<=j;h++){ // Puri count karni this not n-1
             total+=stoneValue[h];
         }
         int left=0, right=0;
         int res=0;
-        for(int h=i;h<stoneValue.length;h++){
+        for(int h=i;h<stoneValue.length;h++){ // Just according to the question follows
             left+=stoneValue[h];
             right=total-left;
 
