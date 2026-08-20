@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0001-two-sum/) | Easy |
+| [0046-permutations](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0046-permutations/) | Medium |
 | [0049-group-anagrams](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
@@ -430,6 +431,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0046-permutations/) | Medium |
 | [0077-combinations](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0077-combinations/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Nim Game
