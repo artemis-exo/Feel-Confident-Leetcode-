@@ -32,6 +32,7 @@
 | [1563-stone-game-v](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1563-stone-game-v/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1872-stone-game-viii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -113,6 +114,7 @@
 | [1406-stone-game-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2029-stone-game-ix/) | Medium |
@@ -151,6 +153,7 @@
 | [1510-stone-game-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1563-stone-game-v/) | Hard |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1872-stone-game-viii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
@@ -267,6 +270,7 @@
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
+| [1872-stone-game-viii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -420,6 +424,7 @@
 | [1406-stone-game-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2029-stone-game-ix/) | Medium |
 ## Minimax
@@ -428,6 +433,7 @@
 | [1140-stone-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -435,6 +441,7 @@
 | [1140-stone-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2029-stone-game-ix/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
