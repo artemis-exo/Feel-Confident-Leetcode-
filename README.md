@@ -11,6 +11,7 @@
 | [0049-group-anagrams](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
+| [0303-range-sum-query-immutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -271,6 +272,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
 | [1872-stone-game-viii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1872-stone-game-viii/) | Hard |
@@ -358,6 +360,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0303-range-sum-query-immutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
