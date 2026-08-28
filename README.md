@@ -12,6 +12,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
@@ -364,6 +365,7 @@
 | ------- | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0307-range-sum-query-mutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -484,6 +486,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
@@ -493,4 +496,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0979-distribute-coins-in-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0307-range-sum-query-mutable/) | Medium |
+## Sqrt Decomposition
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0307-range-sum-query-mutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0307-range-sum-query-mutable/) | Medium |
 <!---LeetCode Topics End-->
