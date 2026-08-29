@@ -40,6 +40,7 @@
 | [2029-stone-game-ix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2932-maximum-strong-pair-xor-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -106,6 +107,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -276,6 +278,7 @@
 | [1254-number-of-closed-islands](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
