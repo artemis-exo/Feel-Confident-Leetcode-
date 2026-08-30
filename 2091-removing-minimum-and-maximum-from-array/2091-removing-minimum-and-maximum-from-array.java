@@ -16,9 +16,9 @@ class Solution {
             left=right;
             right=temp;
         }
-        int res=(left+1)+(n-right);
-        int res1=right+1;
-        int res2=n-left;
+        int res=(left+1)+(n-right);  // agr left or right dono alag side exist krte hai
+        int res1=right+1;  // agr dono left side exist krte hai
+        int res2=n-left;   // if dono right side exist krte hai
 
         return Math.min(Math.min(res,res1),res2);
     }
