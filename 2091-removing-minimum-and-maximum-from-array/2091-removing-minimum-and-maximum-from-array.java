@@ -10,7 +10,7 @@ class Solution {
                 left=i;
             }
         }
-        IO.println(left + " "+right);
+        // IO.println(left + " "+right);
         if(left>right){
             int temp=left;
             left=right;
