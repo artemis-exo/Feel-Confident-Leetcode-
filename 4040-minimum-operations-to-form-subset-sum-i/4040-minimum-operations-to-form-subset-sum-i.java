@@ -4,7 +4,7 @@ class Solution {
         Arrays.fill(dp,(int)1e6);
         dp[0]=0; // base case agr sum=0 hai toh koe operations nahi
         for(int op:nums){
-            int cpdp []=dp.clone();
+            int cpdp []=dp.clone(); //fresh current dp ka clone krte hai takki next elemnets ke liye operations krne mey ease anf for copy issliye bnate hai takki ek hi num(op) ko ek hi leep mey baar use na karein
 
             int curr=op;
             for(int i=0; curr<=sum;i++){
@@ -20,7 +20,7 @@ class Solution {
                 }
                 curr=curr/2;
             }
-            dp=cpdp;
+            dp=cpdp; // sare updates daal diye 
         }
         return dp[sum]==1e6?-1:dp[sum];
     }
