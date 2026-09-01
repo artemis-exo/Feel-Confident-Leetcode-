@@ -50,6 +50,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -73,6 +74,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## String
@@ -219,6 +221,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +233,7 @@
 | [1260-shift-2d-grid](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,6 +394,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
