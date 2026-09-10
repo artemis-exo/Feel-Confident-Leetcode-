@@ -269,6 +269,7 @@
 | [1254-number-of-closed-islands](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -379,6 +380,7 @@
 | [0965-univalued-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -393,6 +395,7 @@
 | [0965-univalued-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
