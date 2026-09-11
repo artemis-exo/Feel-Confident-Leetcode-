@@ -24,6 +24,17 @@ class Solution {
                 st.push(i);
             }
         }
-        return "/" + String.join("/",st);
+        if (st.isEmpty()) {
+            return "/";
+        }
+
+         
+       StringBuilder sb = new StringBuilder();
+
+        for (String it : st) {
+            sb.append("/").append(it);
+        }
+
+        return sb.toString();
     }
 }
