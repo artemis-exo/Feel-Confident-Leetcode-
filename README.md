@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0039-combination-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0039-combination-sum/) | Medium |
+| [0045-jump-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0049-group-anagrams/) | Medium |
@@ -163,6 +164,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0072-edit-distance](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0072-edit-distance/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0124-binary-tree-maximum-path-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -333,6 +335,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0044-wildcard-matching/) | Hard |
+| [0045-jump-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0860-lemonade-change](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0860-lemonade-change/) | Easy |
