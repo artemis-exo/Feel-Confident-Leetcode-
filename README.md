@@ -135,6 +135,7 @@
 | [0002-add-two-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0486-predict-the-winner](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0877-stone-game/) | Medium |
 | [0991-broken-calculator](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0991-broken-calculator/) | Medium |
 | [1140-stone-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
@@ -570,4 +571,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0225-implement-stack-using-queues/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
