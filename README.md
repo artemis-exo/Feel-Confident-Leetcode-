@@ -28,6 +28,7 @@
 | [0835-image-overlap](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0835-image-overlap/) | Medium |
 | [0860-lemonade-change](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0860-lemonade-change/) | Easy |
 | [0877-stone-game](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0877-stone-game/) | Medium |
+| [0980-unique-paths-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0980-unique-paths-iii/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1140-stone-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -250,6 +251,7 @@
 | [0741-cherry-pickup](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0741-cherry-pickup/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0835-image-overlap](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0835-image-overlap/) | Medium |
+| [0980-unique-paths-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0980-unique-paths-iii/) | Hard |
 | [1091-shortest-path-in-binary-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1260-shift-2d-grid/) | Easy |
@@ -424,6 +426,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0980-unique-paths-iii/) | Hard |
 | [1386-cinema-seat-allocation](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2932-maximum-strong-pair-xor-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -527,6 +530,7 @@
 | [0046-permutations](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0077-combinations/) | Medium |
+| [0980-unique-paths-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0980-unique-paths-iii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -575,4 +579,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0836-rectangle-overlap/) | Easy |
+## Hamiltonian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0980-unique-paths-iii/) | Hard |
 <!---LeetCode Topics End-->
