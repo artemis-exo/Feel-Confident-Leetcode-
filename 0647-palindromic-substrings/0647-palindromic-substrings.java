@@ -1,4 +1,5 @@
 class Solution {
+    // ---- >> Palindromic Blue Print
     public int countSubstrings(String s) {
         int n=s.length();
         int cnt=0;
