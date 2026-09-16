@@ -101,6 +101,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0647-palindromic-substrings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0647-palindromic-substrings/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -342,6 +343,7 @@
 | [0143-reorder-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0143-reorder-list/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -351,6 +353,7 @@
 | [0376-wiggle-subsequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0376-wiggle-subsequence/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0860-lemonade-change](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0860-lemonade-change/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0991-broken-calculator](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0991-broken-calculator/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -592,4 +595,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0980-unique-paths-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0980-unique-paths-iii/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 <!---LeetCode Topics End-->
