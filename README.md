@@ -19,6 +19,7 @@
 | [0322-coin-change](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0376-wiggle-subsequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0376-wiggle-subsequence/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0486-predict-the-winner](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -124,6 +125,7 @@
 | ------- | ------- |
 | [0047-permutations-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0047-permutations-ii/) | Medium |
 | [0049-group-anagrams](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0049-group-anagrams/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -182,6 +184,7 @@
 | [0322-coin-change](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0376-wiggle-subsequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0376-wiggle-subsequence/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0486-predict-the-winner](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0647-palindromic-substrings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0647-palindromic-substrings/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -355,6 +358,7 @@
 | [0044-wildcard-matching](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0376-wiggle-subsequence/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0860-lemonade-change](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
