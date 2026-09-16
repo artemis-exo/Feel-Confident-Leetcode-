@@ -147,6 +147,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1510-stone-game-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -193,6 +194,7 @@
 | [1463-cherry-pickup-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1510-stone-game-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1872-stone-game-viii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -325,6 +327,7 @@
 | [0303-range-sum-query-immutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -490,6 +493,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Topological Sort
