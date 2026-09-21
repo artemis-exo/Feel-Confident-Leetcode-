@@ -100,6 +100,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0044-wildcard-matching](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0071-simplify-path/) | Medium |
@@ -184,6 +185,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0044-wildcard-matching](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0072-edit-distance](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0072-edit-distance/) | Medium |
@@ -229,6 +231,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0086-partition-list/) | Medium |
@@ -644,4 +647,8 @@
 | [1148-article-views-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1148-article-views-i/) | Easy |
 | [1729-find-followers-count](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
