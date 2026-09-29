@@ -54,6 +54,7 @@
 | [2029-stone-game-ix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
@@ -240,6 +241,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1872-stone-game-viii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1872-stone-game-viii/) | Hard |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
@@ -316,6 +318,7 @@
 | [1260-shift-2d-grid](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1463-cherry-pickup-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -682,6 +685,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
