@@ -702,6 +702,7 @@
 | [1683-invalid-tweets](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [1934-confirmation-rate](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1934-confirmation-rate/) | Medium |
 ## Manacher
 | Problem Name | Difficulty |
 | ------- | ------- |
