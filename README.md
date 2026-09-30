@@ -130,6 +130,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -408,6 +409,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -683,6 +685,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
