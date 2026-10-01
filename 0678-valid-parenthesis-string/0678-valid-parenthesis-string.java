@@ -1,3 +1,5 @@
+// Partially Correct no Fully
+
 // class Solution {
 //     public boolean checkValidString(String s) {
 //         int open=0,close=0;
@@ -64,32 +66,71 @@
 // }
 
 // TABULATION APPROACH ----///
+// class Solution {
+//     public boolean checkValidString(String s) {
+//         int n=s.length();
+//         boolean dp[][]=new boolean[n+1][n+1];
+//         dp[n][0]=true;
+//         for(int i=n-1;i>=0;i--){
+//            for(int cnt=0;cnt<n;cnt++){
+//             boolean Valid=false;
+//             if(s.charAt(i)=='('){
+//                 Valid=dp[i+1][cnt+1];
+//             }
+//             else if(s.charAt(i)=='*'){
+//                 Valid|=dp[i+1][cnt+1];
+//                 Valid|=dp[i+1][cnt];
+//                 if(cnt>0){
+//                     Valid|=dp[i+1][cnt-1];
+//                 }
+//             }
+//             else if(s.charAt(i)==')'){
+//                 if(cnt>0){
+//                     Valid|=dp[i+1][cnt-1];
+//                 }
+//             }
+//              dp[i][cnt]=Valid;
+//            }
+//         }
+//         return dp[0][0];
+//     }
+// }
+
+// Using 2 Stacks One for Open Bracket and One For "*"
+
 class Solution {
     public boolean checkValidString(String s) {
         int n=s.length();
-        boolean dp[][]=new boolean[n+1][n+1];
-        dp[n][0]=true;
-        for(int i=n-1;i>=0;i--){
-           for(int cnt=0;cnt<n;cnt++){
-            boolean Valid=false;
-            if(s.charAt(i)=='('){
-                Valid=dp[i+1][cnt+1];
+        Stack<Integer>st=new Stack<>();
+        Stack<Integer>ast=new Stack<>();
+        for(int i=0; i<n;i++){
+            char ch=s.charAt(i);
+            if(ch=='('){
+                st.push(i);
             }
-            else if(s.charAt(i)=='*'){
-                Valid|=dp[i+1][cnt+1];
-                Valid|=dp[i+1][cnt];
-                if(cnt>0){
-                    Valid|=dp[i+1][cnt-1];
+            else if(ch=='*'){
+                ast.push(i);
+            }
+            else{
+                if(!st.isEmpty()){
+                    st.pop();
+                }
+                else if(!ast.isEmpty()){
+                    ast.pop();
+                }
+                else{
+                    return false;
                 }
             }
-            else if(s.charAt(i)==')'){
-                if(cnt>0){
-                    Valid|=dp[i+1][cnt-1];
-                }
-            }
-             dp[i][cnt]=Valid;
-           }
         }
-        return dp[0][0];
+        // Post processing for test cases Like ---- >> "*(())(*"
+        while(!st.isEmpty() && !ast.isEmpty()){
+            if(ast.peek()<st.peek()){
+                 return false;
+            }
+            st.pop();
+            ast.pop();
+        }
+        return st.isEmpty();
     }
 }
