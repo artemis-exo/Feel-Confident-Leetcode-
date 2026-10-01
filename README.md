@@ -116,6 +116,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0044-wildcard-matching](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0071-simplify-path/) | Medium |
@@ -402,6 +403,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0071-simplify-path/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0143-reorder-list/) | Medium |
@@ -688,6 +690,7 @@
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
