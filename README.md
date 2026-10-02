@@ -117,6 +117,7 @@
 | [0005-longest-palindromic-substring](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0044-wildcard-matching/) | Hard |
 | [0049-group-anagrams](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0071-simplify-path](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0071-simplify-path/) | Medium |
@@ -214,6 +215,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0072-edit-distance](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0072-edit-distance/) | Medium |
@@ -626,6 +628,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0047-permutations-ii/) | Medium |
@@ -691,6 +694,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
