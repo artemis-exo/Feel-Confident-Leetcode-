@@ -18,9 +18,9 @@ class Solution {
             }
             
         }
-        int [] ans=new int[st.size()];
-        for(int i=0;i<st.size(); i++){
-            ans[i]=st.get(i);
+       int [] ans=new int[st.size()];
+        for(int i=st.size()-1;i>=0; i--){
+            ans[i]=st.pop();
         }
         return ans;
     }
