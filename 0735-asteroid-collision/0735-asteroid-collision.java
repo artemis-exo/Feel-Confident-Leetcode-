@@ -5,14 +5,14 @@ class Solution {
             if(i>0){
                 st.push(i);
             }
-            else{
+            else{ // -tive num aya aur age usse phele wle abs() krke chote huye toh sare bhar 
                 while(!st.isEmpty() && st.peek()>0 && st.peek()<Math.abs(i)){
                 st.pop();
             }
-            if(!st.isEmpty() && st.peek()==Math.abs(i)){
+            if(!st.isEmpty() && st.peek()==Math.abs(i)){ // agar dono same hue toh pop 
                 st.pop();
             }
-            else if(st.isEmpty() ||st.peek()<0){
+            else if(st.isEmpty() ||st.peek()<0){ // agar stack mey - tive element hai phele se toh same parity ka negative dal skte hai usse koe collision condition disturb nhi hori hai
                 st.push(i);
             }
             }
