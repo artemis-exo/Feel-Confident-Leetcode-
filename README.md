@@ -315,6 +315,7 @@
 | [1254-number-of-closed-islands](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix
@@ -356,6 +357,7 @@
 | [1254-number-of-closed-islands](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
@@ -366,6 +368,7 @@
 | [0841-keys-and-rooms](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0841-keys-and-rooms/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3310-remove-methods-from-project](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -386,6 +389,7 @@
 | [1254-number-of-closed-islands](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
