@@ -130,6 +130,7 @@
 | [0097-interleaving-string](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0097-interleaving-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0205-isomorphic-strings/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0647-palindromic-substrings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -303,6 +304,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
@@ -652,6 +654,7 @@
 | [0046-permutations](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0077-combinations/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0980-unique-paths-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0980-unique-paths-iii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
