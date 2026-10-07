@@ -1,30 +1,30 @@
 // // Method 1--- > Using temp SB
-// class Solution {
-//     public String evaluate(String s, List<List<String>> K) {
-//         Map<String,String>map=new HashMap<>();
-//         for(List<String> st:K){
-//             map.put(st.get(0),st.get(1));
-//         }
-//         StringBuilder sb=new StringBuilder();
-//         int i=0;
-//         while(i<s.length()){
-//             if(Character.isAlphabetic(s.charAt(i))){
-//                 sb.append(s.charAt(i));
-//             }
-//             else if(s.charAt(i)=='('){
-//                 i++;
-//                 StringBuilder temp=new StringBuilder();
-//                 while(i<s.length() && s.charAt(i)!=')'){
-//                     temp.append(s.charAt(i));
-//                     i++;
-//                 }
-//                 sb.append(map.getOrDefault(temp.toString(),"?"));
-//             }
-//             i++;
-//         }
-//         return sb.toString();
-//     }
-// }
+class Solution {
+    public String evaluate(String s, List<List<String>> K) {
+        Map<String,String>map=new HashMap<>();
+        for(List<String> st:K){
+            map.put(st.get(0),st.get(1));
+        }
+        StringBuilder sb=new StringBuilder();
+        int i=0;
+        while(i<s.length()){
+            if(Character.isAlphabetic(s.charAt(i))){
+                sb.append(s.charAt(i));
+            }
+            else if(s.charAt(i)=='('){
+                i++;
+                StringBuilder temp=new StringBuilder();
+                while(i<s.length() && s.charAt(i)!=')'){
+                    temp.append(s.charAt(i));
+                    i++;
+                }
+                sb.append(map.getOrDefault(temp.toString(),"?"));
+            }
+            i++;
+        }
+        return sb.toString();
+    }
+}
 
 // Using Substring Fetch
 class Solution {
