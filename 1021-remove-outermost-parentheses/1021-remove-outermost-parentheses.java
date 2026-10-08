@@ -1,28 +1,28 @@
- /// ----- >>> With Stack int O(N) Space
+ // / ----- >>> With Stack int O(N) Space
 
-// class Solution {
-//     public String removeOuterParentheses(String s) {
-//         Stack<Character>st=new Stack<>();
-//         StringBuilder sb=new StringBuilder();
-//         for(char ch: s.toCharArray()){
-//             if(ch=='('){
-//             if(!st.isEmpty()){
-//                 sb.append(ch);
-//             }
-//             st.push(ch);
-//             }
-//             else{
-//                  st.pop();
-//                if(!st.isEmpty()){
-//                 sb.append(ch);
-//             } 
+class Solution {
+    public String removeOuterParentheses(String s) {
+        Stack<Character>st=new Stack<>();
+        StringBuilder sb=new StringBuilder();
+        for(char ch: s.toCharArray()){
+            if(ch=='('){
+            if(!st.isEmpty()){
+                sb.append(ch);
+            }
+            st.push(ch);
+            }
+            else{
+                 st.pop();
+               if(!st.isEmpty()){
+                sb.append(ch);
+            } 
            
-//             }
-//         }
-//         return sb.toString();
+            }
+        }
+        return sb.toString();
 
-//     }
-// }
+    }
+}
 
 // Without Stack Uisng Pointers in O(1) Space
 
