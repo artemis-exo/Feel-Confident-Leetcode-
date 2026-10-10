@@ -58,6 +58,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
@@ -175,6 +176,7 @@
 | [1096-brace-expansion-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -384,6 +386,7 @@
 | [0778-swim-in-rising-water](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -419,6 +422,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -465,6 +469,7 @@
 | [1927-sum-game](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
