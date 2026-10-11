@@ -60,6 +60,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2932-maximum-strong-pair-xor-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -579,6 +580,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
