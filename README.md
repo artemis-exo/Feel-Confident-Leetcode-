@@ -135,6 +135,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+| [0541-reverse-string-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0541-reverse-string-ii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0856-score-of-parentheses/) | Medium |
@@ -291,6 +292,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0143-reorder-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0143-reorder-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0541-reverse-string-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0541-reverse-string-ii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0647-palindromic-substrings/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
