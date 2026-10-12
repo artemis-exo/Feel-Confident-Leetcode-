@@ -1,14 +1,13 @@
 class Solution {
     public int maxSum(List<Integer> nums, int k) {
-        int bits[]=new int[30];
-        long MOD=1000000007;
+        int[] bits = new int[32];
+        int MOD = (int) (1e9 + 7);
         long ans=0;
-        // Counting the set bits
-        for(int i:nums){
-            for(int j=0; j<30;j++){
-                if((i&(1<<j))!=0)
-                bits[j]++;
-            }
+        for (int num : nums){
+            for (int i = 0; i < 32; ++i)
+               if ((num & (1 << i)) != 0) {
+                 bits[i]++;
+                }
         }
         while(k-->0){
             long curr=0;
