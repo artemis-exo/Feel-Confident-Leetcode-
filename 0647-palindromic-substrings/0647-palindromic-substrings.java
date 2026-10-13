@@ -39,7 +39,7 @@ class Solution {
 }
 
 
-
+// Using BLUEPRINT
 class Solution {
     // ---- >> Palindromic Blue Print
     public int countSubstrings(String s) {
