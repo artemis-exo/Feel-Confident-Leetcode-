@@ -1,71 +1,44 @@
 class Solution {
+    public boolean check(int[] nums, int len) {
+        int n = nums.length;
+        int minn = 0;
+        
+        for (int i = 0; i < n; i += len) {
+            if (nums[i] < minn) return false;
+            
+            int maxx = nums[i];
+            boolean point = false;
+            
+            for (int j = i + 1; j < i + len; j++) {
+                if (nums[j] < minn) return false;
+                
+                if (nums[j - 1] > nums[j]) {
+                    if (point) return false;
+                    point = true;
+                }
+                
+                maxx = Math.max(maxx, nums[j]);
+            }
+            
+            if (point) {
+                if (nums[i] < nums[i + len - 1]) return false;
+            }
+            
+            minn = maxx;
+        }
+        
+        return true;
+    }
+    
     public int sortableIntegers(int[] nums) {
         int n = nums.length;
-        int[] s = nums.clone();
-        java.util.Arrays.sort(s);
         int ans = 0;
         
         for (int k = 1; k <= n; k++) {
-            if (n % k != 0) {
-                continue;
-            }
-            boolean valid = true;
-            for (int start = 0; start < n; start += k) {
-                if (!checkRotation(nums, s, start, k)) {
-                    valid = false;
-                    break;
-                }
-            }
-            if (valid) {
-                ans += k;
-            }
+            if (n % k != 0) continue;
+            if (check(nums, k)) ans += k;
         }
+        
         return ans;
-    }
-    
-    private boolean checkRotation(int[] nums, int[] s, int start, int k) {
-        if (k == 1) {
-            return nums[start] == s[start];
-        }
-        
-        int[] lps = new int[k];
-        int len = 0;
-        int i = 1;
-        
-        while (i < k) {
-            if (s[start + i] == s[start + len]) {
-                len++;
-                lps[i] = len;
-                i++;
-            } else {
-                if (len != 0) {
-                    len = lps[len - 1];
-                } else {
-                    lps[i] = 0;
-                    i++;
-                }
-            }
-        }
-        
-        i = 0;
-        int j = 0;
-        
-        while (i < k * 2) {
-            if (s[start + j] == nums[start + (i % k)]) {
-                j++;
-                i++;
-            }
-            if (j == k) {
-                return true;
-            } else if (i < k * 2 && s[start + j] != nums[start + (i % k)]) {
-                if (j != 0) {
-                    j = lps[j - 1];
-                } else {
-                    i++;
-                }
-            }
-        }
-        
-        return false;
     }
 }
