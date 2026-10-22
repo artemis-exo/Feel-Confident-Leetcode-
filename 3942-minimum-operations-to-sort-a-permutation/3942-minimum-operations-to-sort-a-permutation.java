@@ -6,8 +6,8 @@ class Solution {
             ascCnt+=(nums[i]==(nums[i-1]+1)%n)?1:0;
             descCnt+=(nums[i-1]==(nums[i]+1)%n)?1:0;
         }
-        IO.println(ascCnt);
-        IO.println(descCnt);
+        // IO.println(ascCnt);
+        // IO.println(descCnt);
         if(ascCnt==n-1 && nums[0]==0){
             return 0;
             // phele se hi sorted hai
