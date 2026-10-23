@@ -27,6 +27,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0463-island-perimeter](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0463-island-perimeter/) | Easy |
 | [0486-predict-the-winner](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0494-target-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -269,6 +270,7 @@
 | [0377-combination-sum-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0377-combination-sum-iv/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0486-predict-the-winner](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
+| [0494-target-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0494-target-sum/) | Medium |
 | [0647-palindromic-substrings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
@@ -705,6 +707,7 @@
 | [0047-permutations-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0047-permutations-ii/) | Medium |
 | [0077-combinations](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0077-combinations/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0494-target-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0494-target-sum/) | Medium |
 | [0980-unique-paths-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0980-unique-paths-iii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -815,4 +818,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0976-largest-perimeter-triangle/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0494-target-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
