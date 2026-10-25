@@ -33,41 +33,90 @@
 
 // Approach 2- ** Using Boundry check conditions
 
+// class Solution {
+//     public int closedIsland(int[][] grid) {
+//         int n=grid.length;
+//         int m=grid[0].length;
+//         for(int i=0; i<n; i++){  // col check
+//             if(grid[i][0]==0)
+//             dfs(i,0,grid);
+//             if(grid[i][m-1]==0)
+//             dfs(i,m-1,grid);
+//         }
+//         for(int j=0;j<m;j++){  // row check
+//             if(grid[0][j]==0)
+//             dfs(0,j,grid);
+//             if(grid[n-1][j]==0)
+//             dfs(n-1,j,grid);
+//         }
+//         int cnt=0;
+//         for(int i=1; i<n-1; i++){
+//             for(int j=1; j<m-1;j++){
+//                 if(grid[i][j]==0){
+//                     cnt++;
+//                     dfs(i,j,grid);
+//                 }
+//             }
+//         }
+//         return cnt;
+//     }
+//     public void dfs(int i, int j, int[][] grid){
+//          if(i<0 || j<0 || j>=grid[0].length || i>=grid.length || grid[i][j]==1){ 
+//            return;
+//          }
+//          grid[i][j]=1;
+//          dfs(i-1,j,grid);
+//          dfs(i+1,j,grid);
+//          dfs(i,j-1,grid);
+//          dfs(i,j+1,grid);
+//     }
+// }
+
+// Using BFS
+
 class Solution {
     public int closedIsland(int[][] grid) {
         int n=grid.length;
         int m=grid[0].length;
-        for(int i=0; i<n; i++){  // col check
-            if(grid[i][0]==0)
-            dfs(i,0,grid);
-            if(grid[i][m-1]==0)
-            dfs(i,m-1,grid);
-        }
-        for(int j=0;j<m;j++){  // row check
-            if(grid[0][j]==0)
-            dfs(0,j,grid);
-            if(grid[n-1][j]==0)
-            dfs(n-1,j,grid);
-        }
-        int cnt=0;
-        for(int i=1; i<n-1; i++){
-            for(int j=1; j<m-1;j++){
+        int closed=0;
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
                 if(grid[i][j]==0){
-                    cnt++;
-                    dfs(i,j,grid);
+                    if(bfs(i,j,grid)){
+                        closed++; // true ayega mtlb closed island possible hai
+                    }
                 }
             }
         }
-        return cnt;
+        return closed;
     }
-    public void dfs(int i, int j, int[][] grid){
-         if(i<0 || j<0 || j>=grid[0].length || i>=grid.length || grid[i][j]==1){ 
-           return;
-         }
-         grid[i][j]=1;
-         dfs(i-1,j,grid);
-         dfs(i+1,j,grid);
-         dfs(i,j-1,grid);
-         dfs(i,j+1,grid);
+    public boolean bfs(int row, int col, int [][] grid){
+        int n=grid.length;
+        int m=grid[0].length;
+        Queue<int[]>pq=new LinkedList<>();
+        pq.offer(new int[]{row,col});
+        grid[row][col]=1;
+        int dr[]={1,-1,0,0};
+        int dc[]={0,0,-1,1};
+        boolean Closed=true;
+
+        while(!pq.isEmpty()){
+            int curr[]=pq.poll();
+            for(int it=0; it<4;it++){
+                int nr=curr[0]+dr[it];
+                int nc=curr[1]+dc[it];
+
+                if(nr<0 || nc<0 || nr>=n || nc>=m){
+                    Closed=false;
+                    continue;
+                }
+                if(grid[nr][nc]==1)
+                continue;
+
+                grid[nr][nc]=1;
+                pq.offer(new int[]{nr,nc});
+            }
+        }
+        return Closed;
     }
 }
