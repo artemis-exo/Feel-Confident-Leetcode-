@@ -91,6 +91,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -184,6 +185,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -411,6 +413,7 @@
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -569,6 +572,7 @@
 | [0979-distribute-coins-in-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -612,6 +616,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -741,6 +746,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -753,12 +759,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Sqrt Decomposition
 | Problem Name | Difficulty |
 | ------- | ------- |
