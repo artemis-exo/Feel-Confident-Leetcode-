@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0039-combination-sum/) | Medium |
 | [0045-jump-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0046-permutations/) | Medium |
@@ -316,6 +317,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
