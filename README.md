@@ -28,6 +28,7 @@
 | [0435-non-overlapping-intervals](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0463-island-perimeter/) | Easy |
 | [0486-predict-the-winner](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0494-target-sum/) | Medium |
@@ -197,6 +198,7 @@
 | [0049-group-anagrams](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -220,6 +222,7 @@
 | [0002-add-two-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0836-rectangle-overlap/) | Easy |
