@@ -81,6 +81,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -134,6 +135,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
@@ -249,6 +251,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -309,6 +312,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3665-twisted-mirror-path-count/) | Medium |
@@ -444,6 +448,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -646,6 +651,7 @@
 | [2932-maximum-strong-pair-xor-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
