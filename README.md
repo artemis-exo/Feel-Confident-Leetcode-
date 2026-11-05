@@ -31,6 +31,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0463-island-perimeter/) | Easy |
 | [0486-predict-the-winner](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0486-predict-the-winner/) | Medium |
+| [0493-reverse-pairs](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0494-target-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -484,6 +485,7 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0493-reverse-pairs](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0493-reverse-pairs/) | Hard |
 | [0778-swim-in-rising-water](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -764,6 +766,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0493-reverse-pairs](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0493-reverse-pairs/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -772,6 +775,7 @@
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0493-reverse-pairs](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0493-reverse-pairs/) | Hard |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -781,11 +785,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0493-reverse-pairs](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0493-reverse-pairs/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0307-range-sum-query-mutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0307-range-sum-query-mutable/) | Medium |
+| [0493-reverse-pairs](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0493-reverse-pairs/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
@@ -869,4 +875,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0494-target-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0494-target-sum/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0493-reverse-pairs/) | Hard |
+## Treap
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
