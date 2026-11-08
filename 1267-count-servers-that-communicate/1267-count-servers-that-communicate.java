@@ -6,8 +6,10 @@ class Solution {
         int [] col=new int [m+1];
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
-                row[i]+=grid[i][j];
-                col[j]+=grid[i][j];
+                if(grid[i][j]==1){
+                    row[i]++;
+                    col[j]++;
+                }
             }
         }
         int cnt=0;
