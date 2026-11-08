@@ -49,6 +49,7 @@
 | [1140-stone-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
@@ -383,6 +384,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -402,6 +404,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1981-minimize-the-difference-between-target-and-chosen-elements/) | Medium |
@@ -431,6 +434,7 @@
 | [0979-distribute-coins-in-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -468,6 +472,7 @@
 | [0778-swim-in-rising-water](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -678,6 +683,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2029-stone-game-ix](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
