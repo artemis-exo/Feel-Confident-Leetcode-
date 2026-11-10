@@ -29,26 +29,44 @@
 
 
 // TABULATION
+// class Solution {
+//     public int climbStairs(int n, int[] costs) {
+//         int[] dp = new int[n + 1];
+
+//         // Base case
+//         dp[n] = 0;
+
+//         for (int i = n - 1; i >= 0; i--) {
+//             int one = (costs[i] + 1) + dp[i + 1];
+
+//             int two = Integer.MAX_VALUE;
+//             if (i + 2 <= n) {
+//                 two = (costs[i + 1] + 4) + dp[i + 2];
+//             }
+//             int three = Integer.MAX_VALUE;
+//             if (i + 3 <= n) {
+//                 three = (costs[i + 2] + 9) + dp[i + 3];
+//             }
+//             dp[i] = Math.min(one, Math.min(two, three));
+//         }
+//         return dp[0];
+//     }
+// }
+
+// SPACE OPTIMIZATION
+
 class Solution {
+
     public int climbStairs(int n, int[] costs) {
-        int[] dp = new int[n + 1];
-
-        // Base case
-        dp[n] = 0;
-
-        for (int i = n - 1; i >= 0; i--) {
-            int one = (costs[i] + 1) + dp[i + 1];
-
-            int two = Integer.MAX_VALUE;
-            if (i + 2 <= n) {
-                two = (costs[i + 1] + 4) + dp[i + 2];
-            }
-            int three = Integer.MAX_VALUE;
-            if (i + 3 <= n) {
-                three = (costs[i + 2] + 9) + dp[i + 3];
-            }
-            dp[i] = Math.min(one, Math.min(two, three));
+        int a = 0,
+            b = 0,
+            c = 0;
+        for (int i = 0; i < n; ++i) {
+            int nxt = Math.min(Math.min(a + 9, b + 4), c + 1) + costs[i];
+            a = b;
+            b = c;
+            c = nxt;
         }
-        return dp[0];
+        return c;
     }
 }
