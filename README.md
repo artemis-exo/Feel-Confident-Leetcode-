@@ -60,6 +60,7 @@
 | [1631-path-with-minimum-effort](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1872-stone-game-viii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [1882-process-tasks-using-servers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1882-process-tasks-using-servers/) | Medium |
