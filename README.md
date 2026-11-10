@@ -101,6 +101,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
@@ -328,6 +329,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
