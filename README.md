@@ -128,6 +128,7 @@
 | [0217-contains-duplicate](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0242-valid-anagram/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
@@ -174,6 +175,7 @@
 | [0242-valid-anagram](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0301-remove-invalid-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0438-find-all-anagrams-in-a-string](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
 | [0541-reverse-string-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0541-reverse-string-ii/) | Easy |
 | [0647-palindromic-substrings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0647-palindromic-substrings/) | Medium |
@@ -679,6 +681,7 @@
 | [0076-minimum-window-substring](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
