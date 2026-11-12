@@ -14,6 +14,7 @@
 | [0049-group-anagrams](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0055-jump-game](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0055-jump-game/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0189-rotate-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0189-rotate-array/) | Medium |
@@ -123,6 +124,7 @@
 | [0001-two-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0076-minimum-window-substring/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0205-isomorphic-strings](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0205-isomorphic-strings/) | Easy |
@@ -489,6 +491,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
