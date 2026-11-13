@@ -91,6 +91,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -551,6 +552,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -590,6 +592,7 @@
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -694,6 +697,7 @@
 | [2932-maximum-strong-pair-xor-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2932-maximum-strong-pair-xor-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -808,6 +812,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3525-find-x-value-of-array-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 ## Ordered Set
@@ -846,6 +851,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -921,4 +927,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0493-reverse-pairs/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
