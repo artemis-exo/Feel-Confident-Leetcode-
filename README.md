@@ -55,6 +55,7 @@
 | [1254-number-of-closed-islands](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1260-shift-2d-grid/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
@@ -273,6 +274,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0991-broken-calculator](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0991-broken-calculator/) | Medium |
 | [1140-stone-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1406-stone-game-iii/) | Hard |
 | [1486-xor-operation-in-an-array](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -529,6 +531,7 @@
 | [0303-range-sum-query-immutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1140-stone-game-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -682,6 +685,7 @@
 | [0303-range-sum-query-immutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0307-range-sum-query-mutable](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0307-range-sum-query-mutable/) | Medium |
 | [0449-serialize-and-deserialize-bst](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/0449-serialize-and-deserialize-bst/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -956,4 +960,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
