@@ -118,6 +118,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3840-house-robber-v](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3840-house-robber-v/) | Medium |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3841-palindromic-path-queries-in-a-tree/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -370,6 +371,7 @@
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3693-climbing-stairs-ii/) | Medium |
+| [3840-house-robber-v](https://github.com/artemis-exo/Feel-Confident-Leetcode-/tree/main/3840-house-robber-v/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
